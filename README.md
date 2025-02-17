@@ -1,6 +1,6 @@
 # Mateus Lima - @matsueu 🙂
 
-## 🎲 Criando o um projeto conceitual de banco de dados - OFICINA (DIO) 🔍
+## 🎲 Criando um projeto conceitual de banco de dados - OFICINA (DIO) 🔍
 
 Nesse projeto eu criei, a partir da narrativa fornecida pela Juliana, um esquema de banco de dados de uma oficina, contendo todas as informações e dados básicos necessários. 😁🍦
 
